@@ -3,7 +3,7 @@ public class Mult {
         int a=10;
         int b=20;
 
-        System.out.println(a*b);
+        System.out.println("Mult="+(a*b));
     }
 
 }
